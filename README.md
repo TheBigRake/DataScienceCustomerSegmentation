@@ -1,1 +1,1 @@
-# DataScienceCustomerSegmentation
+# Data Science Customer Segmentation Project
